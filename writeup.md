@@ -15,11 +15,11 @@ The goals / steps of this project are the following:
 
 [masked_edges]: ./test_images_output/masked_edges.jpg "Masked Edges"
 
-[example_1]: ./test_images_output/test_1.jpg "Example1"
+[example_1]: ./test_images_output/solidWhiteCurve.jpg "Example1"
 
-[example_2]: ./test_images_output/test_3.jpg "Example2" 
+[example_2]: ./test_images_output/solidYellowCurve2.jpg "Example2" 
 
-[example_3]: ./test_videos_output/res_105.jpg "Exmaple3" 
+[example_3]: ./test_images_output/res_105.jpg "Example3" 
 
 ---
 
